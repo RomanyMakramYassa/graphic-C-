@@ -1,0 +1,26 @@
+D:\romany graphics\romany graphics\bin\Debug\romany graphics.exe.config
+D:\romany graphics\romany graphics\obj\Debug\romany graphics.csprojResolveAssemblyReference.cache
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.BRESENHAM.resources
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.CERCLE.resources
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.DDA.resources
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.ELLIPSE.resources
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.Form1.resources
+D:\romany graphics\romany graphics\obj\Debug\romany_graphics.Properties.Resources.resources
+D:\romany graphics\romany graphics\obj\Debug\romany graphics.csproj.GenerateResource.Cache
+D:\romany graphics\romany graphics\bin\Debug\romany graphics.exe
+D:\romany graphics\romany graphics\bin\Debug\romany graphics.pdb
+D:\romany graphics\romany graphics\obj\Debug\romany graphics.exe
+D:\romany graphics\romany graphics\obj\Debug\romany graphics.pdb
+D:\New folder (5)\romany graphics\romany graphics\bin\Debug\romany graphics.exe.config
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany graphics.exe
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany graphics.pdb
+D:\New folder (5)\romany graphics\romany graphics\bin\Debug\romany graphics.exe
+D:\New folder (5)\romany graphics\romany graphics\bin\Debug\romany graphics.pdb
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany graphics.csprojResolveAssemblyReference.cache
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.BRESENHAM.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.CERCLE.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.DDA.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.ELLIPSE.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.Form1.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany_graphics.Properties.Resources.resources
+D:\New folder (5)\romany graphics\romany graphics\obj\Debug\romany graphics.csproj.GenerateResource.Cache
